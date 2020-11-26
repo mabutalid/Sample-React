@@ -8,7 +8,7 @@ const GlobalStyle = createGlobalStyle`
   @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
   html, body {
-    margin: 0;
+    margin: 1;
     padding: 0;
   }
 
